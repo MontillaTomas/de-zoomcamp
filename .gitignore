@@ -1,8 +1,8 @@
 *.csv
 .ipynb_checkpoints
 
-01-docker-terraform/2_docker_sql/ny_taxi_postgres_data/*
-01-docker-terraform/2_docker_sql/data_pgadmin/*
+**/ny_taxi_postgres_data/*
+**/data_pgadmin/*
 01-docker-terraform/1_terraform_gcp/terrademo/keys/*
 
 ### Terraform ###
