@@ -4,6 +4,9 @@
 **/ny_taxi_postgres_data/*
 **/data_pgadmin/*
 01-docker-terraform/1_terraform_gcp/terrademo/keys/*
+**/my-creds.json
+03-data-warehouse/Dockerfile
+03-data-warehouse/load_script.py
 
 ### Terraform ###
 
