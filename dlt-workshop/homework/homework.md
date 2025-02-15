@@ -132,7 +132,7 @@ dtypes: datetime64[us, UTC](2), float64(11), int64(1), object(4)
 memory usage: 1.4+ MB
 ```
 
-> 10000
+- 10000
 
 ## **Question 4: Trip Duration Analysis**
 
