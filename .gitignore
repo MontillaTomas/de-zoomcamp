@@ -1,5 +1,6 @@
 *.csv
 .ipynb_checkpoints
+*.duckdb
 
 **/ny_taxi_postgres_data/*
 **/data_pgadmin/*
